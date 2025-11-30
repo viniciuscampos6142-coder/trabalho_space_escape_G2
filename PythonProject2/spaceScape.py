@@ -401,7 +401,8 @@ try:
                         if event.key == pygame.K_SPACE or event.key == pygame.K_RCTRL: shoot_laser(p1_rect)
                     elif game_mode == 2:
                         if event.key == pygame.K_RCTRL: shoot_laser(p1_rect)
-                        if event.key == pygame.K_LCTRL or event.key == pygame.K_z: shoot_laser(p2_rect)
+                        # [ALTERADO] Removido o 'or event.key == pygame.K_z'
+                        if event.key == pygame.K_LCTRL: shoot_laser(p2_rect)
 
             elif game_state == "GAMEOVER" or game_state == "VICTORY":
                 if event.type == pygame.KEYDOWN: game_state = "MENU"
