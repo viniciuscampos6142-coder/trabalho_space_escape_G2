@@ -1,3 +1,15 @@
+##############################################################
+###               S P A C E     E S C A P E                ###
+##############################################################
+###                  versao Alpha 0.3                      ###
+##############################################################
+### Objetivo: desviar dos meteoros que caem.               ###
+### Cada colisão tira uma vida. Sobreviva o máximo que     ###
+### conseguir!                                             ###
+##############################################################
+### Prof. Filipo Novo Mor - github.com/ProfessorFilipo     ###
+##############################################################
+
 import pygame
 import random
 import os
