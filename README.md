@@ -135,10 +135,13 @@ Exibe Vidas, Pontuação Individual e Fase atual no topo da tela.
 
 Mostra cronômetro regressivo quando uma arma especial esta ativa.
 
-Segue o Link do GitHub: https://github.com/viniciuscampos6142-
-coder/trabalho_space_escape_G2.git
+Segue o Link do GitHub:
 
-Segue Link do Video no Youtube: https://youtu.be/Mj04-tDu32c?si=B044NOzNZ9UFaXo
+https://github.com/viniciuscampos6142-coder/trabalho_space_escape_G2.git
+
+Segue Link do Video no Youtube: 
+
+https://youtu.be/Mj04-tDu32c?si=B044NOzNZ9UFaXo
 
 
 TRABALHO FEITO POR: 
